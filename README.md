@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Nitesh Kumar Mehta
 
-<!--
-**Nmrocks55/NMrocks55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Software Engineer | Tech Enthusiast | Lifelong Learner**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Currently pursuing graduation in IT.
+- 🌱 Exploring Web Development, Data Science, and Cloud.
+- 💡 Passionate about building mini-projects and learning by doing.
+- ⚡ Fun fact: I believe small steps lead to big success!
+
+---
+
+### 🛠️ Languages & Tools
+- **Languages:** C++, Python, JavaScript, SQL  
+- **Tools/Frameworks:** Git, GitHub, Node.js, React, MySQL  
+- **Other:** VS Code, Postman  
+
+---
+
+### 📂 Featured Projects
+- 🔢 [Calculator](#)  
+- 🌦️ [Weather App](#)  
+- 🐍 [Python Guessing Game](#)  
+- 📊 [Data Analysis Projects](#)  
+
+---
+
+⭐️ Feel free to check my repositories and connect!
