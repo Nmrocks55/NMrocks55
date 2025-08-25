@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Nitesh Kumar Mehta
 
-💻 **Aspiring Software Engineer | Tech Enthusiast | Lifelong Learner**
+💻 **Computer Science Engineer | Tech Enthusiast | Lifelong Learner**
 
 ---
 
 ### 🚀 About Me
-- 🎓 Currently pursuing graduation in IT.
+- 🎓 Graduated in BTech Computer Science & Engineering from KIIT, Odisha(India).
 - 🌱 Exploring Web Development, Data Science, and Cloud.
 - 💡 Passionate about building mini-projects and learning by doing.
 - ⚡ Fun fact: I believe small steps lead to big success!
